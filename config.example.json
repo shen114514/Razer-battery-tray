@@ -1,0 +1,12 @@
+{
+  "interval": 120,
+  "low_threshold": 10,
+  "confirm_reads": 2,
+  "rearm_margin": 5,
+  "cooldown_minutes": 60,
+  "popup_seconds": 15,
+  "ignore_zero": true,
+  "alerts_enabled": true,
+  "tray_icon_style": "device",
+  "start_minimized": true
+}

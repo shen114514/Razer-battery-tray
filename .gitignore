@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.log
+
+# 用户自己的设置与上次电量缓存
+config.json
+state.json
+
+# 录屏/上传素材
+video/
+*.tmp
+.DS_Store
+Thumbs.db
